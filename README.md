@@ -1,5 +1,5 @@
 # Sistemas de Operação (CC2004)
-Neste repositório está o código relativo à Unidade Curricular de Sistemas de Operação do Ano Letivo 2021/2022.
+Neste repositório está o código relativo à Unidade Curricular de Sistemas de Operação do Ano Letivo 2021/2022 - DCC/FCUP.
 
 | Diretório     | Descrição |
 | :------------ | :--------------------------------------------------------------------------------|
