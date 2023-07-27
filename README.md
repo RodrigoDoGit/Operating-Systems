@@ -1,7 +1,7 @@
-# Sistemas de Operação (CC2004)
-Neste repositório está o código relativo à Unidade Curricular de Sistemas de Operação do Ano Letivo 2021/2022 - DCC/FCUP.
+# Operating Systems (CC2004)
+This repository contains the code for Operating Systems Course Unit of 2021/2022 Academic Year - DCC/FCUP.
 
-| Diretório     | Descrição |
+| Folder     | Description |
 | :------------ | :--------------------------------------------------------------------------------|
-| Código Fonte  | Código fonte disponibilizado como base para os exercícios das folhas propostas |
-| Práticas      | Resoluções dos exercícios das folhas propostas |
+| Base Code  | Source code given as base to solve the lab classes exercises |
+| Lab Classes      | Resolutions of the lab classes exercises |
